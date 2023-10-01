@@ -1,0 +1,35 @@
+{
+    "blogPosts": [
+      {
+        "id": 1,
+        "title": "Passion",
+        "author": "Joshua Currie",
+        "body": "I think I only decided that I wanted to major in Computer Science about a year before I started college. I did not really know growing up what I wanted to be in the future. Something stable and not dreadful were my only criteria. My girlfriend actually was the one that mentioned I should major in Computer Science because that is what she wants to major in and because she knows I have a passion for computers. I said yes because I didn't care that much about my career path and I know Computer Science has nice job security and high pay. I went through the first few semesters just learning the basics. It was fine. I didn't really care for it and I didn't have any motivation in learning unless it was required for completing some assignment. It was after I decided to delve into web development that something clicked. This was the first time that I actually felt a desire to learn and create something using code! I remember learning the basics of HTML, CSS, and JavaScript and just creating the worst simple websites ever. I build a calculator that can barely do basic arithmetic but will insult the user everytime they used the calculator. It was funny and I love showing people that dumb calculator site."
+      },
+      {
+        "id": 2,
+        "title": "Always Learning",
+        "author": "Joshua Currie",
+        "body": "The thing about this field is that there is always something new to learn about and practice. I remember when I first decided I wanted to learn web development, I asked Chat-GPT where was a good place to start. It responded by saying I should start by learning HTML and CSS. I found a nice 6 hour long lecture on YouTube that explained all the basics of HTML and CSS from elements to classes to IDs etc. Afterwards I decided it was time to learn JavaScript. I found this nice 12 hour long JavaScript course that went over the basics of making a website more dynamic. At this point I thought I basicially knew everything about web development, but I couldn't be more wrong. Right now I am taking Processes of Object-Oriented Software Development at UCF and I came into this class thinking I already knew everything there is to know about creating web applications. Little did I know there as so much more I needed to learn such as frameworks, APIs, hosting, domains, servers, accessibility, responsiveness, etc. It was overwhelming and a little intimiating. However I soon came to the realization that it is okay to not know everything as the point of this field is to keep learning. And even if I was somehow able to learn about EVERYTHING that relates to web-development, it wouldn't matter as there will always be new technologies being created. And that is what makes this field so special."
+      },
+      {
+        "id": 3,
+        "title": "Favorite Things to Do",
+        "author": "Joshua Currie",
+        "body": "When I am not doing anything academic or software development related, my favorite things to do involve sitting at my computer. My mom got me this beautiful ultrawide Alienware monitor as a gift for going off to college and it is really nice for not just coding (since I can have a million windows open on the same screen) but for gaming as well. I am not a competitve gamer. If I was a competitive gamer I would probably prefer a smaller screen with a more traditional aspect ratio, however, I care more about the immerive factor when gaming. The main game I play is Sea of Thieves which is this Xbox and PC exclusive game about being a pirate and playing with your crew of up to 4 people. I usually just play with my girlfriend. It's her favorite game as well."
+      },
+      {
+        "id": 4,
+        "title": "My Funniest Joke",
+        "author": "Joshua Currie",
+        "body": "When geese fly in a V-shape, one side is always longer than the other, why?? Because there are more geese on that side."
+      },
+      {
+        "id": 5,
+        "title": "ChatGPT-4 Wrote This Entry",
+        "author": "GPT-4",
+        "body": "Hello, readers! I'm ChatGPT-4, the latest iteration from OpenAI's GPT series. As a state-of-the-art language model, I'm here to share insights into the ever-evolving world of web development. Web development has witnessed significant transformations over the years. From static HTML pages to dynamic, responsive, and interactive web applications, the landscape keeps shifting, necessitating developers to stay updated. Today, we're at a juncture where artificial intelligence (AI) is no longer just a buzzword; it's an integral part of development. That's where I come in. With models like me, developers can enhance user experiences in numerous ways. From creating content, answering queries in real-time, aiding in debugging, to even making design recommendations, AI can be the perfect co-pilot in your web development journey. While traditional tools remain foundational, it's the integration of AI that's setting apart cutting-edge websites from the rest. As you embark on or continue your web development endeavors, consider how AI, and specifically models like me, can be leveraged. The marriage between web development and AI promises not only improved efficiency but also innovation that was previously unimaginable. Stay curious, keep learning, and remember that the future of web development is as exciting as it's ever been!"
+      }
+    ]
+  }
+  

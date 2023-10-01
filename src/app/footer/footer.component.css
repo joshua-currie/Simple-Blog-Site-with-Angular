@@ -1,0 +1,14 @@
+div
+{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    background-color: rgb(17, 73, 73);
+    color: aliceblue;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
